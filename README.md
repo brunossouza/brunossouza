@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="min-width: 400px; max-width: 400px; width: 400px;" align="right">
 
 <p align="left"> 
-  Olá! Meu nome é <strong>Bruno</strong>. Sou um desenvolvedor de software apaixonado por criar soluções robustas e eficientes. Trabalho com um foco especial em desenvolvimento de software utilizando linguagens como <strong>Java</strong>, <strong>TypeScript</strong>, <strong>C#</strong>, e frameworks como <strong>Angular</strong>, <strong>NestJS</strong>, <strong>Spring Boot</strong> e <strong>Microsoft Bot Framework</strong>.<br>
+  Olá! Meu nome é <strong>Bruno</strong>. Sou um desenvolvedor de software apaixonado por criar soluções robustas e eficientes. Trabalho com um foco especial em desenvolvimento de software utilizando linguagens como <strong>Java</strong>, <strong>TypeScript</strong>, <strong>C#</strong>, e frameworks como <strong>Angular</strong>, <strong>NestJS</strong> e  <strong>Spring Boot</strong>.<br>
   Atualmente, estou atuando como <strong>Analista de Desenvolvedor</strong>, além de colaborar em projetos pessoais e estudos em áreas como gerenciamento de dados e desenvolvimento de aplicações web.
 </p>
 
