@@ -1,24 +1,46 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="min-width: 400px; max-width: 400px; width: 400px;" align="right">
+# 👋 Olá, eu sou o Bruno!
 
-<p align="left"> 
-  Olá! Meu nome é <strong>Bruno</strong>. Sou um desenvolvedor de software apaixonado por criar soluções robustas e eficientes. Trabalho com um foco especial em desenvolvimento de software utilizando linguagens como <strong>Java</strong>, <strong>TypeScript</strong>, <strong>C#</strong>, e frameworks como <strong>Angular</strong>, <strong>NestJS</strong> e  <strong>Spring Boot</strong>.<br>
-  Atualmente, estou atuando como <strong>Analista de Desenvolvedor</strong>, além de colaborar em projetos pessoais e estudos em áreas como gerenciamento de dados e desenvolvimento de aplicações web.
-</p>
+Analista Desenvolvedor, curioso por natureza e apaixonado por tecnologia desde 2013 🚀
 
-<p align="left">
-  🧰 <strong>Linguagens</strong>: Java, TypeScript, C#, SQL.
-</p>
+---
 
-<p align="left">
-  💼 <strong>Ferramentas</strong>: Docker, PostgreSQL, SQL Server, Linux, Angular, Spring Boot, NestJS.
-</p>
+## Sobre mim
 
-<p align="left">
-  💌 Fique à vontade para entrar em contato comigo: ⤵️
-</p>
+🎮 Gamer nas horas vagas, desenvolvedor de software o tempo todo!  
+Formado em Sistemas de Informação, Segurança de Redes e Engenharia Elétrica (sim, eu curto aprender de tudo um pouco! 😄).
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/bsilva256" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bsilva256" alt="LinkedIn"/>
-  </a>
-</p>
+Adoro criar soluções que realmente fazem a diferença — seja com **Java**, **Go**, **TypeScript**, **C#**, **NodeJs**, **Angular**, **NestJs** ou **Spring Boot**. Ninguém vive sem um bom **Linux**, **Docker** e aquele push esperto no **Git**!
+
+Sou daqueles que gostam de desafios, inovação e um bom café para resolver bugs cabeludos ☕🐛.
+
+---
+
+## 💡 Skills
+
+| Linguagens   | Frameworks         | DevOps/Infra         | Outros                   |
+| ------------ | ------------------ | -------------------- | ------------------------ |
+| Java         | Spring Boot        | Linux                | Office 365               |
+| Go           | NestJs (Node.js)   | Docker               | Administração de Redes   |
+| C#           | Angular            | Git                  | Typebot                  |
+| NodeJs       |                    |                      | Azure                    |
+| TypeScript   |                    |                      |                          |
+
+
+---
+
+## 🕹️ Interesses
+
+- Web development
+- DevOps e automações
+- Inteligência Artificial
+- Gaming (quem nunca? 😅)
+
+---
+
+## 🌐 Vamos conectar?
+
+[LinkedIn](https://www.linkedin.com/in/bsilva256)
+
+---
+
+> “Sempre há uma solução — às vezes é só um pouco de café e criatividade!”  
